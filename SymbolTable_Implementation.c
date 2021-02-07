@@ -9,7 +9,7 @@ void main(){
 	{
 		b[i]=c;
 		i++;
-	}
+	} 
 	n=i-1;
 	printf("Given expression:");
 	i=0;
